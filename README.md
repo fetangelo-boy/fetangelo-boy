@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Привет, я Дмитрий 👋</h1>
 
 <h3 align="center">Вайб-кодер: сайты · ИИ-помощники · приложения · CRM</h3>
@@ -22,6 +21,17 @@
 - **24/7** отвечает ИИ-помощник АвтоГраф во ВКонтакте.
 - **8 лет** — столько живёт проект RTrader на рынке.
 - Работаю в связке «человек + ИИ»: быстро собираю рабочую версию и довожу её руками.
+
+---
+
+## 📂 Открытые репозитории
+
+| Проект | Репозиторий |
+|---|---|
+| 🤖 АвтоГраф — ИИ-помощник во ВКонтакте | [avtograf-ai-bot](https://github.com/fetangelo-boy/avtograf-ai-bot) |
+| 📱 RTrader App — MVP приложения для клуба | [rtrader-app-mvp](https://github.com/fetangelo-boy/rtrader-app-mvp) |
+| 🌐 Сайт-визитка: груминг и хендлинг | [setter-landing](https://github.com/fetangelo-boy/setter-landing) |
+| 🟣 RTrader — трейдинговый портал | [rtrader-site](https://github.com/fetangelo-boy/rtrader-site) |
 
 ---
 
